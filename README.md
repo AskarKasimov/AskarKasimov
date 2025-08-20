@@ -2,6 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askarkasimov&layout=compact&langs_count=6&theme=transparent&size_weight=0.5&count_weight=0.5)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askarkasimov&show_icons=true&count_private=true&theme=transparent&rank_icon=github&show=prs_merged_percentage&hide=prs,issues,contribs)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=AskarKasimov&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
