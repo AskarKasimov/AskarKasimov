@@ -2,9 +2,9 @@
 
 ## ✨ Full-Stack Enthusiast ✨
 
+- **TypeScript / JavaScript** — CSR & SSR web apps (React, Next.js)  
 - **Flutter** — cross-platform mobile applications  
 - **Java / Kotlin** — Android native development & backend applications (Spring)  
-- **TypeScript / JavaScript** — CSR & SSR web apps (React, Next.js)  
 - **Python** — scripting, automation, bots & backend applications (FastAPI)  
 - **Go** — microservice backend applications using gRPC and event-driven architecture (RabbitMQ / Kafka)  
 - **Other interests** — exploring Information Security (CTF, pentesting) & DevOps practices (CI/CD, Kubernetes)
